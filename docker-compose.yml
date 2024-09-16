@@ -10,8 +10,6 @@
 #
 # I also have a video going through this here: https://www.youtube.com/watch?v=gEceSAJI_3s
 
-version: "3.8"
-
 services:
 
   database:

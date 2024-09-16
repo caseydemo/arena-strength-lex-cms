@@ -1,0 +1,28 @@
+
+.footer_text_body {
+    margin-bottom: 0px;
+    padding: 10px;
+    color: white;
+}
+.footer_text_body .footer_copy {
+    margin-top: 10px;
+}
+.footer_text_body .footer_icon {
+    margin: 15px 20px;
+}
+/* desktop */
+.footer_text_body .footer_icon {
+    width: 50px;
+    padding-top: 15px;
+    /* margin-bottom: 15px; */
+    color: white;
+}
+/* mobile */
+@media only screen and (min-width: 768px) {
+    .footer_text_body .footer_icon {
+        width: 75;
+        padding-top: 15px;
+        /* margin-bottom: 15px; */
+        color: white;
+    }
+}
